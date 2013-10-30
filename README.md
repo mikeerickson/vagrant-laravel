@@ -8,6 +8,10 @@ A base Laravel application for use with Vagrant, services include:
   - http://localhost:5472/customers
 * PHP Info Page
   - http://localhost:5472/info
+* Laravel Project includes
+  - [Jeffrey Way / Generators](https://github.com/JeffreyWay/Laravel-4-Generators)
+  - [Darsain / Laravel Console](https://github.com/Darsain/laravel-console/tree/master)
+     * http://localhost:5472/console
 
 ### Laracasts Videos
 For more detailed information on using Vagrant and integration with Laravel, please visit [Laracasts](http://www.laracasts.com) two execellent videos.
