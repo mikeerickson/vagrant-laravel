@@ -1,15 +1,19 @@
 ## Vagrant Laravel
-###### Mike Erickson [codedungeon@gmail.com](codedungeon@gmail.com)
 
-A base Laravel application for use with Vagrant
+A base Laravel application for use with Vagrant, services include:
 
 * Apache2, MySQL 5.5, PHP 5.5, xDebug 2.2
-* Default page
   - http://localhost:5472
 * Base Migration and Seed file (sample Customer table)
   - http://localhost:5472/customers
 * PHP Info Page
   - http://localhost:5472/info
+
+### Laracasts Videos
+For more detailed information on using Vagrant and integration with Laravel, please visit [Laracasts](http://www.laracasts.com) two execellent videos.
+
+* [Vagrant Simplified](https://laracasts.com/lessons/vagrant-simplified)
+* [Vagrant and Laravel](https://laracasts.com/lessons/vagrant-and-laravel)
 
 ## Bugs & Additions
 
