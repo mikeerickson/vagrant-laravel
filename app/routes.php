@@ -23,5 +23,6 @@ Route::get('customers', function()
 
 Route::get('info', function()
 {
+//    xdebug_break();
 	phpinfo();
 });

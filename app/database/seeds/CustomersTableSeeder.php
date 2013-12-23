@@ -10,12 +10,12 @@ class CustomersTableSeeder extends Seeder {
 		$customers = array(
 			[
 				"name" => "codedungeon",
-				"address" => "6372 flint drive",
-				"city" => "huntington beach",
-				"state" => "ca",
+				"address" => "15611 Mayflower Lane",
+				"city" => "Huntington Beach",
+				"state" => "CA",
 				"zip" => "92647",
-				"fname" => "mike",
-				"lname" => "erickson",
+				"fname" => "Mike",
+				"lname" => "Erickson",
 				"created_at" => new DateTime(),
 				"updated_at" => new DateTime()
 			]
