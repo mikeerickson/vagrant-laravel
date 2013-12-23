@@ -9,7 +9,7 @@ class CustomersTableSeeder extends Seeder {
 
 		$customers = array(
 			[
-				"name" => "codedungeon",
+				"name" => "CodeDungeon",
 				"address" => "15611 Mayflower Lane",
 				"city" => "Huntington Beach",
 				"state" => "CA",
