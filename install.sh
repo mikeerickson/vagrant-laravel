@@ -37,6 +37,9 @@ cat << EOF | sudo tee -a /etc/php5/mods-available/xdebug.ini
 xdebug.scream=1
 xdebug.cli_color=1
 xdebug.show_local_vars=1
+xdebug.remote_enable = on
+xdebug.remote_handler = dbgp
+xdebug.remote_connect_back = on
 EOF
 
 section_header "Enabling mod-rewrite"
