@@ -1,5 +1,6 @@
 General
 
+TODO: Fixed session bug (perhaps it can be cured by changing session drive 'memcached' is option)
 TODO: update scripts to integrate changes made my Eric to handle recurrence permission errors
         - https://gist.github.com/ericbarnes/8077336 (line 11)
 TODO: Review Eric gists
